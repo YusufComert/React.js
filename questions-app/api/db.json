@@ -1,0 +1,64 @@
+{
+  "question": [
+    {
+      "id": "cde1",
+      "selectedLabel": "A",
+      "question": "Ülkemizde 2017 yılında asgari ücret ne kadardı?",
+      "optionA": "1400",
+      "optionB": "1500",
+      "optionC": "1600",
+      "optionD": "1700",
+      "category": "Genel Kültür"
+    },
+    {
+      "id": "e842",
+      "selectedLabel": "A",
+      "question": "Çanakkale Zaferi’nin dahil olduğu savaş hangisidir?",
+      "optionA": "1.Dünya Savaşı",
+      "optionB": "2.Dünya Savaşı",
+      "optionC": "Trablusgarp Savaşı",
+      "optionD": "Kurtuluş Savaşı",
+      "category": "Tarih"
+    },
+    {
+      "id": "0d4a",
+      "selectedLabel": "B",
+      "question": "Eski ABD Başkanı John Kennedy’i düzenlediği suikast ile öldüren kişinin adı nedir?",
+      "optionA": "Hakan Hakyemez",
+      "optionB": "Lee Harvey Oswald",
+      "optionC": "Rambo Okan ",
+      "optionD": "Arda Turan",
+      "category": "Genel Kültür"
+    },
+    {
+      "id": "a755",
+      "selectedLabel": "D",
+      "question": "Aspirinin ilk kez çıkış yılı nedir?",
+      "optionA": "1845",
+      "optionB": "1985",
+      "optionC": "1905",
+      "optionD": "1899",
+      "category": "Genel Kültür"
+    },
+    {
+      "id": "419d",
+      "selectedLabel": "A",
+      "question": "DENEME SORU",
+      "optionA": "A ",
+      "optionB": "B",
+      "optionC": "C",
+      "optionD": "D",
+      "category": "ASDA"
+    },
+    {
+      "id": "69a0",
+      "selectedLabel": "B",
+      "question": "asdasd",
+      "optionA": "asda",
+      "optionB": "sdad",
+      "optionC": "sada",
+      "optionD": "sdasd",
+      "category": "asdasd"
+    }
+  ]
+}

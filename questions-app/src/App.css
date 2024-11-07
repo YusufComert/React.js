@@ -1,0 +1,174 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.blog-screen {
+  width: 1000px;
+  padding: 70px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.blog-update {
+  width: 100%;
+}
+.input-row {
+  margin: 15px 0px;
+}
+.bordered-shadow {
+  padding: 20px;
+  border: 2px solid #ddd;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px; /* Köşeleri yumuşatmak için */
+}
+
+.hover-shadow {
+  transition: box-shadow 0.9s ease, transform 0.9s ease;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+.task-form {
+  padding: 60px;
+}
+.button-submit {
+  margin-top: 20px;
+}
+.list-card {
+  width: 450px;
+}
+.blog-show {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.blog-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.button-link {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #00d1b2;
+  border-radius: 8px;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.button-link:hover,
+.button-link:focus {
+  background-color: #0056b3;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+.button-link i {
+  margin-right: 8px;
+}
+
+.card-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.custom-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #00d1b2;
+  border: none;
+  border-radius: 25px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+  margin: 20px 5px;
+}
+
+.custom-button:hover,
+.custom-button:focus {
+  background-color: #00b89c; /* Daha koyu turkuaz */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+.custom-button:active {
+  background-color: #00997c; /* Daha koyu renk */
+}
+
+.full-width {
+  width: 100%;
+}
+
+.rounded {
+  border-radius: 25px;
+}
+
+.large-text {
+  font-size: 18px;
+}
+.button-delete {
+  background-color: #e2460e;
+}
+.button-delete:hover,
+.button-delete:focus {
+  background-color: #6f1f0b; /* Daha koyu turkuaz */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+.button-update {
+  background-color: #1782ad;
+}
+.button-update:hover,
+.button-update:focus {
+  background-color: #0a5a6e; /* Daha koyu turkuaz */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+.textarea {
+  margin-bottom: 15px;
+}
+
+/* Custom footer styling */
+.custom-footer {
+  display: flex;
+  justify-content: center; /* Center align items horizontally */
+  align-items: center; /* Center align items vertically */
+  padding: 10px;
+  background-color: #0adebe; /* Light background color */
+  border-top: 1px solid #ddd; /* Light border on top */
+}
+
+/* Custom footer item styling */
+.custom-footer-item {
+  font-size: 16px; /* Adjust font size as needed */
+  color: #000306; /* Dark text color */
+  text-decoration: none; /* Remove underline from text */
+  padding: 10px;
+  border-radius: 4px; /* Rounded corners for a softer look */
+  background-color: #1cddc0b7; /* Light background color for the item */
+  display: inline-block; /* Ensure padding and background color are visible */
+}
+
+/* Styling for the span within custom footer item */
+.custom-footer-item span {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+/* Styling for the text inside custom footer item */
+.custom-footer-item span::before {
+  content: "Kategori : "; /* Custom text before the category */
+  font-weight: bold; /* Bold text for emphasis */
+  margin-right: 5px; /* Space between text and category */
+}

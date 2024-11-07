@@ -1,0 +1,99 @@
+.contact {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+}
+
+.contact .leftSide {
+  height: 100%;
+  flex: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 15px;
+}
+
+.contact .rightSide {
+  height: 100%;
+  flex: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contact .rightSide h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 10;
+  font-size: 50px;
+  margin-left: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  padding: 30px;
+}
+
+form input {
+  height: 40px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+}
+
+form textarea {
+  margin-top: 15px;
+  height: 70px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+}
+input::placeholder,
+textarea::placeholder {
+  font-weight: bold;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form input:focus,
+textarea:focus {
+  outline: none;
+}
+
+form label {
+  margin-top: 15px;
+  color: grey;
+}
+
+form button {
+  margin-top: 40px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: brown;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+.red-button {
+  background-color: #ff4d4f; /* Kırmızı bir ton */
+  color: white; /* Beyaz yazı */
+  padding: 15px 50px; /* Yatayda genişlik ve dikeyde yükseklik */
+  border: none; /* Çerçeve kaldırıldı */
+  border-radius: 35px; /* Köşeleri yuvarlat */
+  font-size: 16px; /* Yazı boyutu */
+  font-weight: bold; /* Kalın yazı */
+  text-transform: uppercase; /* Büyük harf */
+  cursor: pointer; /* Mouse imleci üzerinde değişsin */
+  transition: background-color 0.3s ease; /* Hover etkisi yumuşak geçiş */
+  margin: 15px;
+}
+
+.red-button:hover {
+  background-color: #e63946; /* Hover sırasında kırmızının bir tonu */
+}

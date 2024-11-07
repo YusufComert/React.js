@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum fuga inventore suscipit facilis laboriosam. Tempora illum impedit voluptas commodi, reprehenderit consequuntur eos asperiores dolorum ducimus ipsum aspernatur accusamus omnis beatae.",
+      "title": "1Frontend Kursu",
+      "price": 69
+    },
+    {
+      "id": "2",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum fuga inventore suscipit facilis laboriosam. Tempora illum impedit voluptas commodi, reprehenderit consequuntur eos asperiores dolorum ducimus ipsum aspernatur accusamus omnis beatae.",
+      "title": "2BackEnd Kursu",
+      "price": 100
+    },
+    {
+      "id": "3",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum fuga inventore suscipit facilis laboriosam. Tempora illum impedit voluptas commodi, reprehenderit consequuntur eos asperiores dolorum ducimus ipsum aspernatur accusamus omnis beatae.",
+      "title": "3FullStack Kursu",
+      "price": 120
+    },
+    {
+      "id": "4",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum fuga inventore suscipit facilis laboriosam. Tempora illum impedit voluptas commodi, reprehenderit consequuntur eos asperiores dolorum ducimus ipsum aspernatur accusamus omnis beatae.",
+      "title": "4ReactJs Kursu",
+      "price": 150
+    },
+    {
+      "id": "5",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum fuga inventore suscipit facilis laboriosam. Tempora illum impedit voluptas commodi, reprehenderit consequuntur eos asperiores dolorum ducimus ipsum aspernatur accusamus omnis beatae.",
+      "title": "5React Native Kursu",
+      "price": 170
+    }
+  ]
+}

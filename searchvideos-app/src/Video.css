@@ -1,0 +1,20 @@
+.videoItem {
+  width: 300px; /* Sabit genişlik */
+  height: 200px; /* Sabit yükseklik */
+  overflow: hidden; /* Taşmayı gizle */
+  position: relative; /* İçerikleri yerleştirmek için pozisyon ayarı */
+}
+
+.videoItem video {
+  width: 100%; /* Kapsayıcının genişliğine göre ayarla */
+  height: 100%; /* Kapsayıcının yüksekliğine göre ayarla */
+  object-fit: cover; /* Video içeriğini kapsayıcıya uydurur */
+}
+
+.videoList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 10px;
+}

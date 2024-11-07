@@ -1,0 +1,151 @@
+{
+  "Admin": [
+    {
+      "Id": 1,
+      "Name": "Emre",
+      "Surname": "Güney",
+      "PhoneNumber": "05439146051",
+      "Email": "emregunnney@gmail.com",
+      "Password": "Evelynn123",
+      "id": "4dd8"
+    }
+  ],
+  "User": [
+    {
+      "id": "d564",
+      "Name": "vdsvsd",
+      "MiddleName": "sdvdsv",
+      "Surname": "dvsdv",
+      "BirthDate": "",
+      "gender": "",
+      "PhoneNumber": "5439146051",
+      "Email": "guneye10142@gmail.com",
+      "Password": "Emr123"
+    },
+    {
+      "id": "1ada",
+      "Name": "fadgag",
+      "MiddleName": "dsavsdva",
+      "Surname": "vadsvasv",
+      "BirthDate": "2024-09-06",
+      "gender": "female",
+      "PhoneNumber": "5439146051",
+      "Email": "guneye10142@gmail.com",
+      "Password": "abc1E"
+    },
+    {
+      "id": "e50f",
+      "Name": "fadgag",
+      "MiddleName": "dsavsdva",
+      "Surname": "vadsvasv",
+      "BirthDate": "2024-09-21",
+      "gender": "female",
+      "PhoneNumber": "5439146051",
+      "Email": "guneye10142@gmail.com",
+      "Password": "asdf1E"
+    },
+    {
+      "id": "7e68",
+      "Name": "Yusuf",
+      "MiddleName": "",
+      "Surname": "Cömert",
+      "BirthDate": "2018-03-30",
+      "gender": "male",
+      "PhoneNumber": "5342156655",
+      "Email": "yusufcomert@gmail.com",
+      "Password": "ABCd1"
+    },
+    {
+      "id": "4ff2",
+      "Name": "Mehmet",
+      "MiddleName": "",
+      "Surname": "Okumuş",
+      "BirthDate": "2024-01-12",
+      "gender": "female",
+      "PhoneNumber": "5434521569",
+      "Email": "mehmetokumus@gmail.com",
+      "Password": "Emr10gny"
+    }
+  ],
+  "Contact": [
+    {
+      "id": "1",
+      "name": "Alperen",
+      "surname": "ALEMDAR",
+      "email": "alperenalemdar1@gmail.com",
+      "message": "Hello, how are you?"
+    },
+    {
+      "id": "b3f1",
+      "name": "asdasdsa",
+      "surname": "asdasdsa",
+      "email": "alperenalemdar1@gmail.com",
+      "message": "sadasdasdasdasd"
+    },
+    {
+      "id": "3e7d",
+      "name": "Emre",
+      "surname": "Güney",
+      "email": "alperenalemdar1@gmail.com",
+      "message": "naber müdür"
+    },
+    {
+      "id": "e4cc",
+      "name": "Alperen",
+      "surname": "Alemdar",
+      "email": "alperenalemdar1@gmail.com",
+      "message": "mama"
+    },
+    {
+      "id": "0326",
+      "name": "Mehmet Okumuş",
+      "surname": "Okumulş",
+      "email": "okmssmemet@gmail.com",
+      "message": "dsadasd"
+    }
+  ],
+  "members": [
+    {
+      "image": "/images/furkan.jpg",
+      "id": 1,
+      "name": "Furkan Usta",
+      "age": 22,
+      "career": "HURDACI"
+    },
+    {
+      "image": "/images/emre.jpg",
+      "id": 2,
+      "name": "Emre Güney",
+      "age": 22,
+      "career": "KEBAPÇI"
+    },
+    {
+      "image": "/images/yusuf.jpg",
+      "id": 3,
+      "name": "Yusuf Cömert",
+      "age": 22,
+      "career": "ELEKTİRİKÇİ"
+    },
+    {
+      "image": "/images/memo.jpg",
+      "id": 5,
+      "name": "Mehmet Okumuş",
+      "age": 22,
+      "career": "İNŞAAT AMELESİ"
+    },
+    {
+      "image": "/images/bugra.jpg",
+      "id": 6,
+      "name": "Buğra",
+      "age": 22,
+      "career": "ANİME İZLİYOR"
+    },
+    {
+      "image": "/images/alperen.jpg",
+      "id": 7,
+      "name": "Alperen Alemdar",
+      "age": 22,
+      "career": "PATATES KIZARTMA ELEMANI"
+    }
+  ]
+}
